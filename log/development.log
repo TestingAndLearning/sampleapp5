@@ -518,3 +518,10 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 284ms (Views: 267.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-09-17 21:49:31 -0700
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 610ms (Views: 596.5ms | ActiveRecord: 0.0ms)
+
+
