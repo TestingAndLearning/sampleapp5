@@ -748,3 +748,17 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-09-17 22:31:39 -0700
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4730.5ms)
+Completed 200 OK in 4897ms (Views: 4884.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-18 08:35:47 -0700
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (424.7ms)
+Completed 200 OK in 4072ms (Views: 3830.1ms | ActiveRecord: 0.0ms)
+
+
