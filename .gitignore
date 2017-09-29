@@ -1,4 +1,4 @@
 /tmp/cache/assets/sprockets/*
 /tmp/pids/server.pid
-/log/development.log
+/log/*
 /tmp/*
