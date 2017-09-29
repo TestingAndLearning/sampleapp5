@@ -3,3 +3,4 @@
 /log/development.log
 /tmp/*
 /log/*
+/db/test.sqlite3
